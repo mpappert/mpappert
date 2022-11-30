@@ -1,5 +1,5 @@
 Hi there 👋 I'm Markus Pappert
-- 👀 I’m interested in AI and various self-learning systems 
+- 👀 I’m interested in AI and various (self-)learning systems 
      (ML, DL, DRL, XAI, GNN, Adaptive Control Theory, ...)
 - 📚 I'm currently reading "Building a Second Brain" from Tiago Forte
 
